@@ -4,7 +4,7 @@ A project for a flutter course
 
 
 
-![url=https://postimg.cc/BPbY6gzm][img]https://i.postimg.cc/BPbY6gzm/Screenshot-1633888430.png[/img][/url]
+[url=https://postimg.cc/BPbY6gzm][img]https://i.postimg.cc/BPbY6gzm/Screenshot-1633888430.png[/img][/url]
 
 [url=https://postimg.cc/8szntpCL][img]https://i.postimg.cc/8szntpCL/Screenshot-1633888435.png[/img][/url]
 
