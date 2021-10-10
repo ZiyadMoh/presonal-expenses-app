@@ -8,3 +8,8 @@ first app in the course
 
 
 ## About this project:
+you can track your presonal expenses for the last 7 days
+
+it will show you the transactions in list of cards with some information about them like the total amount the title of the transaction ant the date that the transaction was created in
+
+you can see a chart of the last 7 days with the total amount spent in each day 
